@@ -1,0 +1,35 @@
+body {
+    background-color: rgba(39, 181, 42, 0.5);
+    text-align: center;
+}
+
+#main {
+    background-color: rgba(202, 223, 190);
+    padding: 20px;
+    border-radius: 12px;
+    margin-top: 5%;
+}
+
+h1 {
+    color: white;
+    font-size: 18pt;
+}
+
+button {
+    background-color: white;
+    padding: 8px;
+    border-radius: 8px;
+    border: none;
+}
+
+button:hover {
+    background-color: rgb(1, 164, 6);
+    cursor: pointer;
+    color: white;
+}
+
+#resultadoTela {
+    margin: 20px;
+    margin-left: 40%;
+    text-align: justify;
+}
